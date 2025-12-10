@@ -19,18 +19,18 @@ async function main() {
       },
       {
         title: "Task Manager App",
-        description: "A full-stack task management application with user authentication.",
+        description: "A full-stack task management application with the ability to allow users to manage tasks in a browser.",
         imageUrl: "/project2.jpg",
-        projectUrl: "https://task-manager.vercel.app",
-        githubUrl: "https://github.com/yourusername/task-manager",
-        technologies: ["React", "Node.js", "PostgreSQL", "Prisma"]
+        projectUrl: "https://b-case-sner.vercel.app/",
+        githubUrl: "https://github.com/WarframeLichLP/BCase.git",
+        technologies: ["React", "Node.js"]
       },
       {
-        title: "Weather Dashboard",
+        title: "Weather Site",
         description: "A responsive weather dashboard using external APIs.",
         imageUrl: "/project3.jpg",
-        projectUrl: "https://weather-dash.vercel.app",
-        githubUrl: "https://github.com/yourusername/weather-dashboard",
+        projectUrl: "https://stratus-sphere-flax.vercel.app/",
+        githubUrl: "https://github.com/WarframeLichLP/StratusSphereFork.git",
         technologies: ["JavaScript", "CSS", "Weather API"]
       }
     ]
