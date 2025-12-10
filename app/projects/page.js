@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 export default function Projects() {
-  return (
+  return <>
     <div className="min-h-screen p-8">
       <div className="max-w-6xl mx-auto">
         <h1 className="text-5xl font-bold mb-12">My Projects</h1>
@@ -27,7 +27,7 @@ export default function Projects() {
           
         </div>
 
-=======
+
 import Image from 'next/image';
 import Link from 'next/link';
 
@@ -132,7 +132,7 @@ export default function Projects() {
         )}
 
         {/* Project Ideas */}
->>>>>>> solution
+
         <div className="bg-yellow-50 border-2 border-yellow-200 rounded-lg p-6">
           <h3 className="font-bold text-yellow-900 mb-2">💡 Project Ideas:</h3>
           <ul className="text-yellow-800 space-y-1">
@@ -144,13 +144,13 @@ export default function Projects() {
         </div>
       </div>
     </div>
-<<<<<<< HEAD
+
   )
 }
-=======
+
   );
 }
-
+</>
 // Learning Objectives for Students:
 // 1. Understand server vs client components
 // 2. Learn React state management patterns
@@ -158,4 +158,4 @@ export default function Projects() {
 // 4. Handle async operations and error states
 // 5. Build interactive user interfaces
 // 6. Practice component composition
->>>>>>> solution
+
